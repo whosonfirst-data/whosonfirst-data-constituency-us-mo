@@ -9,7 +9,7 @@
     "geom:bbox":"-90.54104,38.580607,-90.33837,38.764348",
     "geom:latitude":38.673884,
     "geom:longitude":-90.446716,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":238676430.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 24",
     "uscensus:sldust":"024",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487198,
     "wof:geomhash":"2424bbcbca89918555cb2c732bc1172c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768469,
     "wof:lastmodified":1481487198,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

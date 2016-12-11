@@ -9,7 +9,7 @@
     "geom:bbox":"-90.44092,38.77957,-90.31136,38.86175",
     "geom:latitude":38.816842,
     "geom:longitude":-90.364679,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":32883737.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 69",
     "uscensus:sldlst":"069",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487161,
     "wof:geomhash":"0bd54f912f6b5608f0c15491e8f4ab2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768205,
     "wof:lastmodified":1481487161,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

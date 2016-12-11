@@ -9,7 +9,7 @@
     "geom:bbox":"-91.64717,38.53413,-90.75609,39.147853",
     "geom:latitude":38.847649,
     "geom:longitude":-91.31884,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2534271014.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 42",
     "uscensus:sldlst":"042",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487153,
     "wof:geomhash":"60b5a7063061d23237fed8515a289d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768143,
     "wof:lastmodified":1481487153,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

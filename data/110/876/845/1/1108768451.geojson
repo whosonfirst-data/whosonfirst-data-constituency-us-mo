@@ -9,7 +9,7 @@
     "geom:bbox":"-93.08216,37.41528,-91.09394,38.271737",
     "geom:latitude":37.861996,
     "geom:longitude":-91.892202,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8728661503.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 16",
     "uscensus:sldust":"016",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487190,
     "wof:geomhash":"fc7f6a84de90cb047bcc3d2c31f74057",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768451,
     "wof:lastmodified":1481487190,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

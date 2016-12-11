@@ -9,7 +9,7 @@
     "geom:bbox":"-95.7747,39.86149,-94.21416,40.585208",
     "geom:latitude":40.335563,
     "geom:longitude":-95.036929,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5577682390.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 1",
     "uscensus:sldlst":"001",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487143,
     "wof:geomhash":"ce6f8fad99da7b76dd6020ab79161ca5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768051,
     "wof:lastmodified":1481487143,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

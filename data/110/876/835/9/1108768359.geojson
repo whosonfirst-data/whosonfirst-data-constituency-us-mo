@@ -9,7 +9,7 @@
     "geom:bbox":"-93.61185,36.49814,-93.25392,37.09825",
     "geom:latitude":36.769787,
     "geom:longitude":-93.45867,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1336339040.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 138",
     "uscensus:sldlst":"138",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487177,
     "wof:geomhash":"f433e03c46a582f261f81a14e1d20f9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768359,
     "wof:lastmodified":1481487177,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

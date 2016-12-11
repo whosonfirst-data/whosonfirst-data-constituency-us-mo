@@ -9,7 +9,7 @@
     "geom:bbox":"-94.61846,36.497645,-92.76487,37.29008",
     "geom:latitude":36.768961,
     "geom:longitude":-93.693515,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":7837158006.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 29",
     "uscensus:sldust":"029",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487200,
     "wof:geomhash":"d21fd39ee9b0d9a0d21496085eef0edd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768481,
     "wof:lastmodified":1481487200,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

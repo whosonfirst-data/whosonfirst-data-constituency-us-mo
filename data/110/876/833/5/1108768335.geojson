@@ -9,7 +9,7 @@
     "geom:bbox":"-94.618312,37.048127,-93.61381,37.66153",
     "geom:latitude":37.417036,
     "geom:longitude":-94.143521,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4157053450.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 127",
     "uscensus:sldlst":"127",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487174,
     "wof:geomhash":"df8b31af647333866f4fa7138fd8fb20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768335,
     "wof:lastmodified":1481487174,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

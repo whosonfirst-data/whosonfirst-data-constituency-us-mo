@@ -9,7 +9,7 @@
     "geom:bbox":"-90.36324,38.680275,-90.26503,38.731851",
     "geom:latitude":38.704167,
     "geom:longitude":-90.319749,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":26023700.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 85",
     "uscensus:sldlst":"085",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487164,
     "wof:geomhash":"41154d3b91e51b9f6226b01d89b539a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768241,
     "wof:lastmodified":1481487164,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

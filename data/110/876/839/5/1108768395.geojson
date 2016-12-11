@@ -9,7 +9,7 @@
     "geom:bbox":"-92.12043,36.498338,-91.65634,37.05625",
     "geom:latitude":36.762004,
     "geom:longitude":-91.894925,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2284147511.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 154",
     "uscensus:sldlst":"154",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487182,
     "wof:geomhash":"2dadcbc87fc39b8b92f07b1303019e58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768395,
     "wof:lastmodified":1481487182,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-94.60846,38.838,-94.37562,39.123151",
     "geom:latitude":38.921984,
     "geom:longitude":-94.526355,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":234549989.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 7",
     "uscensus:sldust":"007",
     "uscensus:statefp":"29",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487187,
     "wof:geomhash":"a0a0b817300094ce891f4f39ea0ad159",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108768431,
     "wof:lastmodified":1481487187,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688661,
     "wof:repo":"whosonfirst-data-constituency-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
